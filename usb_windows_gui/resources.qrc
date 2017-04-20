@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/appicon">
+        <file>drive_black_usb.ico</file>
+    </qresource>
+</RCC>
